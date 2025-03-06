@@ -32,17 +32,7 @@
     {
       "name": "Documentation",
       "icon": "book-open-cover",
-      "url": "https://slackstickers.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://slackstickers.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://slackstickers.com/blog"
+      "url": "https://docs.slackstickers.com"
     }
   ],
   "navigation": [
@@ -62,6 +52,10 @@
     {
       "group": "Support & Feedback",
       "pages": ["reporting-bugs", "support-us"]
+    },
+    {
+      "group": "Legal",
+      "pages": ["legal/terms-of-use"]
     }
   ],
   "footerSocials": {
