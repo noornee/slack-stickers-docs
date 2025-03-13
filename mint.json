@@ -55,7 +55,7 @@
     },
     {
       "group": "Legal",
-      "pages": ["legal/terms-of-use"]
+      "pages": ["legal/terms-of-use", "legal/privacy-policy"]
     }
   ],
   "footerSocials": {
